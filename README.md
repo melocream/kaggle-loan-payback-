@@ -15,7 +15,7 @@ Binary classification task to predict whether a loan will be paid back.
 
 - Competition: [Playground Series S5E11](https://www.kaggle.com/competitions/playground-series-s5e11)
 - Evaluation Metric: AUC-ROC
-- Period: Dec 2025
+- Period: Nov 2025
 
 ## Approach
 
